@@ -18,7 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
---- Profile Views
+--- 
 [![](https://visitcount.itsvg.in/api?id=Kevinpandya953&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
