@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Kevinpandya953<br>👀 I’m interested in ... Application Devlopment, Design, Application Testing, Machine Learning, Cloud Services and a lot more<br>🌱 I’m currently learning ...Native Desktop application devlopment<br>💞️ I’m looking to collaborate on ... Windows Application dev<br>📫 How to reach me ... Discord id: Tun Tun 💀#4434
+👋 Hi, I’m Kevin Pandya<br>👀 I’m interested in ... Application Devlopment, Design, Application Testing, Machine Learning, Cloud Services and a lot more<br>🌱 I’m currently learning ...Native Desktop application devlopment<br>💞️ I’m looking to collaborate on ... Windows Application dev<br>📫 How to reach me ... Discord id: Tun Tun 💀#4434
 
 
 ## 🌐 Socials:
